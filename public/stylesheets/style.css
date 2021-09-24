@@ -1,9 +1,80 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+
+.title{
+font-size: 100px;
+color: #010326;
+font-weight: bolder
+
 }
 
-a {
-  color: #00B7FF;
+.subtitle{
+color: #02735E;
+
+
+
+}
+
+.button{
+text-align: center;
+background-color:  #02735E;
+color:white;
+text-decoration: none;
+font-weight: bolder
+}
+
+.button:hover{
+color:gray;
+
+
+
+}
+
+
+.notTitle{
+color: #010326;
+font-weight: bold;
+text-decoration: none;
+
+}
+
+.notSubTitle{
+color: #02735E;
+
+
+
+}
+
+.notImg{
+
+width: 100%;
+
+
+}
+
+.title2{
+font-size: 75px;
+color: #010326;
+font-weight: bolder
+
+}
+
+.sub2{
+color:#02735E
+
+
+
+}
+
+.txtNot{
+color:#02735E;
+text-align: justify;
+font-weight: 500
+
+}
+
+.back{
+background-color:  #02735E;
+color:white;
+text-decoration: none;
+font-weight: bold;
 
 }
